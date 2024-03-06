@@ -1,6 +1,10 @@
 # Spring Boot Project
 자바 웹 개발 기술 공부
 
+## 기술
+- Servlet
+- HTTP
+
 ## 개발 환경
 - 'Java 11'
 - 'Spring Boot 2.7.6'
